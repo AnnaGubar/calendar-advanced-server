@@ -9,4 +9,7 @@
 8. создаем файл `Procfile` -> `web: node server.js` команда запуска сервера
 9. `touch .gitignore`
 10. `git status` - проверить какие файлы необходимо занести в .gitignore
-11. 
+11. `git add .` -> `git commit -m "название комита"`
+12. `heroku create -a example-app-server` - создание 
+13. `git remote -v` - правильные ли url
+14. `git push heroku main`
