@@ -5,3 +5,8 @@
 5. добавляем команду-скрипт в package.json -> ` "start": "node server.js"` 
   - `npm start` - запуск сервера
 6. `heroku login`
+7. `git init`
+8. создаем файл `Procfile` -> `web: node server.js` команда запуска сервера
+9. `touch .gitignore`
+10. `git status` - проверить какие файлы необходимо занести в .gitignore
+11. 
