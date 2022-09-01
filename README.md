@@ -12,6 +12,5 @@
 11. `git add .` -> `git commit -m "название комита"`
 12. `heroku create -a example-app-server` - создание 
 13. `git remote -v` - правильные ли url
-14. `git push heroku main`
+14. `git push heroku main` 
 
-drtfghjnkml,gfcvhbjnm,.
