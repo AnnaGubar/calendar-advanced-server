@@ -14,3 +14,5 @@
 13. `git remote -v` - правильные ли url
 14. `git push heroku main` 
 
+`heroku apps:rename newName` - переименование
+
